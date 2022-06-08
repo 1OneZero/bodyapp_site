@@ -1,0 +1,81 @@
+.navbar {
+    background-color: white;
+}
+
+
+.TextSize1 {
+    font-size: 35px;
+    color: #FF5757;
+    font-weight: 600;
+
+}
+
+.section1 {
+    height: 100vh;
+}
+
+.TextSize3 {
+    font-size: 15px;
+    color: grey;
+    font-weight: 600;
+}
+
+.TextSize2 {
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+
+}
+
+.services_icons {
+    color: #000;
+    background-color: #FF5757;
+}
+
+.TextSize4 {
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+
+}
+
+.secondSection {
+    background-color: #2f3640;
+    padding: 100px;
+    height: 70vh;
+}
+
+.thirdSection {
+    background-color: white;
+    height: 60vh;
+}
+
+.TextSize5 {
+    font-size: 20px;
+    color: white;
+    font-weight: 100;
+}
+
+.TextSize6 {
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+}
+
+.textBoxContainer1 {
+    background-color: white;
+    padding: 100px;
+    /* border-radius: 10px; */
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+}
+
+.fourthSection {
+    background-color: #2f3640;
+    padding: 100px;
+    height: 40vh;
+}
+
+.address_bar_footer {
+    width: 300px;
+}
